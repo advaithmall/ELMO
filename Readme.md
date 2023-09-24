@@ -1,8 +1,5 @@
-# ANLP Assignment 2
-### Name: Advaith Malladi
-### Roll Number: 2021114005
-
-### Directory Structure
+# Embeddings from Language Modelling (ELMO) for contextual embeddings
+### Downstream task has also been performed
 
 ```
 .
@@ -35,7 +32,7 @@
 ### Please download all the missing files from the provided one drive link, please adhere to the above directory structure: https://iiitaphyd-my.sharepoint.com/:f:/g/personal/advaith_malladi_research_iiit_ac_in/EqzZacucfSdFnOY6UHdE-rgBydnQa8HK_BWotMTVJwAfJg?e=iFyL95
 
 
-### to run the biLSTM model and to reproduce results, please run the following command:
+### to run the biLSTM (ELMO) model and to reproduce results, please run the following command:
 
 ```
 cd pretrain
